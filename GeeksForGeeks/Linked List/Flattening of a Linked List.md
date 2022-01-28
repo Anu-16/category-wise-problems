@@ -2,7 +2,7 @@
 
 - merge sort approach
 - we will initially take root and its next node and using merge function we'll try to flatten them first
-- 
+- we recursively merge() the current list with the already flattened list
 
 <details>
 <summary> Code </summary>
